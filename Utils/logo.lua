@@ -48,4 +48,4 @@ Old.Completed:Connect(function()
 	return "Tweened GUI succesfully"
 end)
 end
-Logo:Init()
+return Logo
